@@ -1,0 +1,3 @@
+this is third file added.
+there are two files already staged and commited to git
+
